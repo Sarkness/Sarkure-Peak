@@ -5,6 +5,10 @@
 	worshippers = "Fanatics and Nostalgists"
 	associated_faith = /datum/faith/old_god
 	t0 = /obj/effect/proc_holder/spell/invoked/lesser_heal
+<<<<<<< Updated upstream
+=======
+	t2 = /obj/effect/proc_holder/spell/invoked/heal && /obj/effect/proc_holder/spell/invoked/blindness
+>>>>>>> Stashed changes
 	confess_lines = list(
 		"THERE IS ONLY ONE TRUE GOD!",
 		"PSYDON YET LIVES! PSYDON YET ENDURES!",
